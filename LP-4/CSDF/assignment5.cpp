@@ -57,10 +57,3 @@ int main() {
 
     return 0;
 }
-
-git init
-git add .
-git commit -m "CSDF -all"
-git branch -M main
-git remote add origin https://github.com/ArfatKadvekar/SPPU-BE-COMP-Practicals.git
-git push -u origin main
