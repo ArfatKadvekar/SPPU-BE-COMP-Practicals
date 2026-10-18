@@ -1,0 +1,8 @@
+INFO: Service started
+WARNING: Failed login from 10.0.0.5
+WARNING: Failed login from 10.0.0.5
+WARNING: Failed login from 10.0.0.5
+WARNING: Failed login from 172.16.0.8
+WARNING: Failed login from 172.16.0.8
+WARNING: Failed login from 172.16.0.8
+CRITICAL: Disk usage threshold exceeded

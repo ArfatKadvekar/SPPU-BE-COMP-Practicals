@@ -1,0 +1,12 @@
+
+From: support@bank.example
+Return-Path: attacker@malicious.example
+To: customer@example.com
+Subject: Urgent Account Verification
+Date: Fri, 16 Oct 2026 10:30:00 +0530
+Reply-To: attacker@malicious.example
+Message-ID: <202@example.com>
+Received: from suspicious.example by mail.example.com
+Authentication-Results: mail.example.com; spf=fail; dkim=fail; dmarc=fail
+
+Your account will be blocked. Verify your password immediately.

@@ -1,0 +1,10 @@
+INFO: System started successfully
+INFO: User admin logged in from 192.168.1.10
+WARNING: Failed login from 192.168.1.50
+WARNING: Failed login from 192.168.1.50
+WARNING: Failed login from 192.168.1.50
+INFO: Failed login from 10.0.0.25
+INFO: Failed login from 10.0.0.25
+CRITICAL: Unauthorized access detected
+FATAL: Database connection failed
+INFO: Backup completed successfully

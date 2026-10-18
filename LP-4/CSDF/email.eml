@@ -1,0 +1,13 @@
+
+From: student@example.com
+Return-Path: student@example.com
+To: professor@example.edu
+Subject: Assignment Submission
+Date: Fri, 16 Oct 2026 09:00:00 +0530
+Reply-To: student@example.com
+Message-ID: <101@example.com>
+Received: from sender.example.com by mail.example.edu
+Authentication-Results: mail.example.edu; spf=pass; dkim=pass; dmarc=pass
+
+Dear Professor,
+Please find my assignment attached.
