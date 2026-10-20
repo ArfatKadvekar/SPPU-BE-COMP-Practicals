@@ -1,0 +1,2 @@
+Hello MapReduce!
+Big data is big.

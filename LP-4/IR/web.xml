@@ -1,0 +1,15 @@
+<web>
+    <page id="0" topic="sports">
+        <link to="1" />
+        <link to="2" />
+    </page>
+    <page id="1" topic="sports">
+        <link to="2" />
+    </page>
+    <page id="2" topic="technology">
+        <link to="0" />
+    </page>
+    <page id="3" topic="sports">
+        <link to="2" />
+    </page>
+</web>
